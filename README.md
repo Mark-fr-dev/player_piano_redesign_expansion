@@ -1,3 +1,4 @@
+
 Player-Piano (FreeCAD Redesign and extension)
 
 ## Overview
@@ -79,3 +80,7 @@ Servo driving software is maintained separately:
 [MIT](LICENSE) — free to use, modify, and build upon.
 
 ---
+=======
+# player_piano_redesign_expansion
+Redesign of my piano-player for 3D printing, raspberry pie and online song selection
+
