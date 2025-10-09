@@ -1,0 +1,15 @@
+Git commit message style
+
+feat: add servo plate with bosses and SG90 tab slots
+
+feat: start white servo bar layout, parametric pitch
+
+fix: correct piano bed dowel spacing
+
+docs: add 20250925 progress notes
+
+refactor: regroup parameters spreadsheet by category
+
+style: apply general fillet radius to piano bed edges
+
+chore: remove ignored docs rule from .gitignore
